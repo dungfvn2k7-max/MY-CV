@@ -191,7 +191,7 @@ ul {
   display: flex;
   flex-direction: column;     /* mobile-first: xếp dọc */
   gap: var(--space-4);
-  align-items: flex-start;
+  align-items: stretch;
 }
 
 .eyebrow {
