@@ -1,9 +1,9 @@
 # Portfolio CV - Nguyễn Tấn Dũng
 
-## 1. Tên dự án
+ 1. Tên dự án
 
 **Portfolio CV cá nhân - Nguyễn Tấn Dũng**, giao diện giới thiệu cá nhân dành cho vị trí Frontend Developer.
-
+##
 ## 2. Mô tả
 
 Đây là website portfolio tĩnh, trình bày thông tin giới thiệu, kỹ năng, các dự án tiêu biểu và cách liên hệ. Giao diện được xây dựng theo hướng mobile-first, có thể xem trên máy tính, máy tính bảng và điện thoại.
